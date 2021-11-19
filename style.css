@@ -1,0 +1,30 @@
+.satu {
+    width: 320px;
+    height: 110px;
+    background-color: #00fffe;
+    overflow: scroll;
+    border: 10px dotted red;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.dua {
+    width: 320px;
+    height: 110px;
+    background-color: #00fffe;
+    overflow: scroll;
+    border: 5px solid green;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.tiga {
+    width: 320px;
+    height: 110px;
+    background-color: #00fffe;
+    overflow: scroll;
+    border: 20px dashed blue;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
